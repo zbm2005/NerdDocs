@@ -7,7 +7,7 @@
 - [x] DSA
 - [x] Machine Learning
 - [x] Golang
-- [] CyberSecurity
+- [ ] CyberSecurity
 - [ ] Web Development
 - [ ] System Designing
 
